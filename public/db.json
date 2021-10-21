@@ -14,6 +14,11 @@
       "name": "Фільми та серіали",
       "colorId": 3,
       "id": 5
+    },
+    {
+      "name": "Покупки",
+      "colorId": 5,
+      "id": 6
     }
   ],
   "tasks": [
@@ -63,42 +68,42 @@
   "colors": [
     {
       "id": 1,
-      "hex": "#C9D1D3",
+      "hex": "#c9d1d3",
       "name": "grey"
     },
     {
       "id": 2,
-      "hex": "#42B883",
+      "hex": "#00db79",
       "name": "green"
     },
     {
       "id": 3,
-      "hex": "#64C4ED",
+      "hex": "#00b3ff",
       "name": "blue"
     },
     {
       "id": 4,
-      "hex": "#FFBBCC",
+      "hex": "#ff7a9b",
       "name": "pink"
     },
     {
       "id": 5,
-      "hex": "#B6E6BD",
+      "hex": "#fbff00",
       "name": "lime"
     },
     {
       "id": 6,
-      "hex": "#C355F5",
+      "hex": "#ae00ff",
       "name": "purple"
     },
     {
       "id": 7,
-      "hex": "#110133",
+      "hex": "#08001a",
       "name": "black"
     },
     {
       "id": 8,
-      "hex": "#FF6464",
+      "hex": "#ff0000",
       "name": "red"
     }
   ]

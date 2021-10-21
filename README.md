@@ -1,8 +1,10 @@
-# "To do" app created by tutorial of Archakov Blog.
+# "To do" app created by tutorial of [Archakov Blog](https://www.youtube.com/c/ArchakovBlog).
 
-[Link to Figma design model](https://www.figma.com/file/OP7oFTNqV8tPZyh2zSgCaX/Todo-ReactJS?node-id=0%3A1)
+## [Demo](https://react-todo-app-presentation.herokuapp.com/)
 
-**Required:**
+### Desine: [Figma](https://www.figma.com/file/OP7oFTNqV8tPZyh2zSgCaX/Todo-ReactJS?node-id=0%3A1/)
+
+**Stack:**
 <ul>
    <li>classnames</li>
    <li>node-sass</li>
@@ -17,4 +19,4 @@
 
 
 ### Start server:
-<pre><code>npm run json-server</code></pre>
+<pre><code>npm run server</code></pre>
